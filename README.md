@@ -1,2 +1,2 @@
 # Project-scheduler
-priority based project scheduling tool
+priority based project scheduling tool CLI 
